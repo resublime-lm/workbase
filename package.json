@@ -84,7 +84,7 @@
     "react-transition-group": "^2.4.0",
     "underscore": "1.8",
     "vis": "^4.21.0",
-    "vue": "^2.5.8",
+    "vue": "^3.0.0",
     "vue-color": "^2.6.0",
     "vue-draggable-resizable": "^1.7.1",
     "vue-electron": "^1.0.6",
